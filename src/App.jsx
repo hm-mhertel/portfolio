@@ -29,7 +29,7 @@ const siteProps = {
   title: "System Engineer, focus Energy Systems & Automotive, Tinkerer",
   email: "max.ch.hertel@gmail.com",
   gitHub: "https://github.com/hm-mhertel",
-  linkedIn: "https://www.linkedin.com/in/max-hertel-34851b1a1/"
+  linkedIn: "https://www.linkedin.com/in/max-hertel-34851b1a1/",
 };
 
 const primaryColor = "#757780";

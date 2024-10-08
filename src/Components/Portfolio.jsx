@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/desert sunset7_Tatooine.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "image created with blender";
 
 /**
  * Project list
@@ -60,7 +60,7 @@ const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
-      <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem"}}>
+      <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
